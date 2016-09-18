@@ -1,0 +1,15 @@
+.nav {
+    text-decoration: none;
+}
+
+#wrapper {
+    width: 400px;
+}
+
+#month, #day {
+    width: 34px;
+}
+
+#year {
+    width: 50px;
+}
